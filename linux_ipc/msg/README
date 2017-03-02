@@ -1,0 +1,8 @@
+In your linux shell:
+
+gcc ./msg_recv.c && mv a.out recv
+gcc ./msg_send.c && mv a.out send
+
+./send
+./recv
+
