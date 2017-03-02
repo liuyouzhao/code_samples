@@ -1,0 +1,4 @@
+In your linus shell:
+
+gcc ./base64.c
+./a.out
