@@ -49,4 +49,4 @@ raw:
 
 .PHONY: clean
 clean:
-	rm -rf ./out ./output.bin
+	rm -rf ./$(OUT) ./$(OUT_BIN)
